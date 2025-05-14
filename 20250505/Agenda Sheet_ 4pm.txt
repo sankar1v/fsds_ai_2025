@@ -1,0 +1,102 @@
+^^^^ FSDS with Generative AI & Agentic AI (5th May@4pm)
+==========
+Joining URL: https://web.webex.com/join-meeting
+Meeting Id: 2519 276 1117
+Password: 112233
+==========
+
+FULL STACK DS , AI, GENAI, AGENTIC AI
+
+demo session means--> overview session)
+
+Training mode -- offline mode, online mode & hybrid mode 
+
+online if you have any question i will definitely talk to after some time
+till 40-45 min just listen to me and then you can talk to me 
+
+exer, fresher -- no prolem 
+
+1-- Name of the course
+	full stack
+		Full stack java developer
+		full stack .net devloper
+		full stack angural 
+
+backend + front end 
+	phonepay.com -- frontend 
+	
+frontend devloper
+backend devloper
+	
+2- about my introduction 
+
+	k. prakash senapati
+	18+yr 
+	10yr exper teaching 
+	
+3- what are topic covered in demo session 
+		
+4- experience, leader, non technica, every one have to learn it 
+
+		exper - mindset ( way of think)
+		frehser - mature 
+
+5- quantum computing
+		a2a protocol 
+		
+6- generative ai -- llm models are generarte response 
+		code has to done by user 
+		generate response from the user query 
+		
+agentic ai -- digital agents 
+	connect to llm model agents act like user 
+	generate the app 
+	
+7- 8gb ssd processor 
+	 c : drive for osftware install 
+	 environment variable createion 
+	 other stuff
+	 pyspark installation 
+	 
+8- 4pm - 5:30 pm ( we will have session)
+		9pm - 7pm - mentor available
+		
+			i will share their zoom link 
+			you can sit and ask 
+			
+ after the class or before the class
+ 
+ 9- For course details please text in whatapp to online batch admin 
+		Naveen - 73373 13415 
+		
+10- today i will share todays recording class along with softwware installin 30min video 
+		install it bring your laptop from day after tomorrow onwards 
+		we will start work together inteh call for rest 6month 
+		
+^^^^^ 6th
+
+
+
+
+
+
+
+
+
+
+
+^^^^^^^^^^ADMIN DETAILS ==>
+Online admin number 
+		- Mr. Naveen -- 7337313415  
+Offline Admin 
+		- Mr.ajay--7997997808
+
+^^^^^^^^^^ONLINE MENTOR ==>
+Data science mentor link-1: 
+https://zoom.us/j/82068816627?pwd=3BYepgjDCqbkroxauQGo2T4gr9f7Fn.1
+Data Science link-2
+https://zoom.us/j/86433658207?pwd=7abh6fYZ1McPZsguCNgEaONRoKKY7Y.1
+Password - 112233
+OFFLINE METOR (3rd Floor) 
+
+Software Installation: https://youtu.be/PhIAQ8rE2xc?si=O-K1FHF_1a1FeT4o
